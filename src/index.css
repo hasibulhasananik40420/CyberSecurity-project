@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+/* .bg-gradient-to-tr22 {
+    background-image: linear-gradient(38.35deg, #01182E 34.77%, #1B2E43 84.87%);
+  }
+  
+  .bg-transform22 {
+    transform: matrix(1, 0, 0, -1, 0, 0);
+  } */
